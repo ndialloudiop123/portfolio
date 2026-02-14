@@ -1,0 +1,143 @@
+body{
+    margin: 0%;
+    padding: 0%;/*pas d'espace*/
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo img{
+    width: 200px;
+    height: 200px;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30%;
+    margin: 20px;
+    background-color: cornflowerblue;
+}
+ul{
+    display: flex;
+    gap: 10px;/*c pour l'espace*/
+    list-style:none ;/*c pour enlever les puces*/
+}
+li a{
+    text-decoration: none;/*permet d'enlever c au'on a souligner*/
+    font-size: 20px;
+    color: black;
+    background-color: blue;
+    padding: 5px;/*c pour aug;eter les espaces*/
+    border-radius: 5px;
+}
+li a:hover {
+    background-color: black;
+    color: blue;
+
+}
+.container img{
+    width: 250px;
+    height: 150px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+}
+.container p{
+    font-size: 20px;/*c pour augmenter la taille des ecritures*/
+}
+section h1{
+    text-align: center;
+    text-decoration: underline;/*c pour souligner le text */
+}
+.item{
+    display: flex;
+    margin-bottom: 10px;
+}
+.max{
+    width: 200px;
+    background-color: gray;
+    height: 20px;
+    border-radius: 10px;
+}
+.valeur{
+    width: 95%;
+    height: 20px;
+    background-color: red;
+    border-radius: 10px;
+}
+.valeur1{
+    width: 60%;
+    height: 20px;
+    background-color: green;
+    border-radius: 10px;
+}
+.valeur2{
+    width: 70%;
+    height: 20px;
+    background-color:blue;
+    border-radius: 10px;
+}
+.insta img{
+    width: 50px;
+    height: 40px;
+}
+.insta{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.lite img{
+    width: 50px;
+    height: 40px;
+}
+.lite{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.service{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    background-color: cornflowerblue;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+ .container img{
+    width: 150px;
+    height: 300px;
+    
+}
+.competences{
+    background-color: cornflowerblue;
+}
+
+.res{
+    background-color: cornflowerblue;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+}
+.sent{
+    background-color: cornflowerblue;
+    
+    
+}
+.vert img{
+    width: 50px;
+    height: 40px;
+    
+}
+
+
+
+
+
+
+
+
+
